@@ -73,8 +73,6 @@ This section is reserved for future enhancements or additional functionalities t
 - **Testing:** Test your scripts on items with ample stock to ensure your automation works as expected.
 - **Monitoring:** If you wish to monitor specific items (e.g., limited stock items), design your script to be efficient and respectful of server resources.
 
-接着之前的README内容，这里是继续的部分，以确保你的项目介绍完整且专业。
-
 ---
 
 ## Project Structure
