@@ -171,7 +171,7 @@ def order_top_products(driver, wait, x, keyword, delay=1):
 
 # Example usage
 if __name__ == "__main__":
-    url = 'http://10.113.178.219'
+    url = 'http://xxx' # private website
     delay = 1
     driver = open_driver(url)
     wait = WebDriverWait(driver, 10)
