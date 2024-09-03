@@ -118,7 +118,7 @@ To avoid hardcoding sensitive information like login credentials, you can use en
 Example `.env` file:
 
 ```plaintext
-SHOP_URL=http://10.113.178.219
+SHOP_URL=http://xx.xxx.xxx.xxx （private website）
 SHOP_USERNAME=your_email@example.com
 SHOP_PASSWORD=your_password
 ```
